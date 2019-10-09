@@ -1,3 +1,4 @@
 # HW5name
-"*Anthony Gonzalez"
+* Anthony Gonzalez
+* Czerinton Kunaraja
 
