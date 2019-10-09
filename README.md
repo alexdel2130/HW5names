@@ -1,3 +1,3 @@
 # HW5name
 "*Anthony Gonzalez"
-* stulich john 
+* John Stulich
